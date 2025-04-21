@@ -1,0 +1,45 @@
+Country,Price (EURcents/kWh),price_avg_(EURcents/kWh),Mechanism,Contract Duration,Notes,Sources
+Austria,7.67 - 9.45,"8,56",Feed-in Tariff,13 years,Rates vary by system size; updated annually,E-Control (www.e-control.at); OeMAG (www.oem-ag.at)
+Belgium,4.0 - 6.0,5,Net Billing,1 year,Regional variations (Flanders/Wallonia/Brussels); capacity fees may apply,VREG (www.vreg.be); CWaPE (www.cwape.be)
+Bulgaria,6.8 - 7.9,"7,35",Feed-in Tariff,12 years,Gradual reduction path; different rates for <30kW vs >30kW,KEVR (www.dker.bg)
+Croatia,4.9 - 8.7,"6,8",Premium Market Model,12 years,Calculated as 0.9 market reference price,HROTE (www.hrote.hr)
+Cyprus,10.0 - 12.0,11,Net Billing,10 years,Higher rates for vulnerable households,EAC (www.eac.com.cy)
+Czech Republic,4.5 - 6.2,"5,35",Green Bonus,20 years,Adjusted annually; preference for self-consumption,ERU(www.eru.cz)
+Denmark,3.0 - 5.0,4,Hourly Net Metering,1 year,Based on Nord Pool spot prices,Energinet (www.energinet.dk)
+Estonia,5.3,"5,3",Feed-in Premium,12 years,Premium above market price,Elering (www.elering.ee)
+Finland,3.0 - 5.0,4,Market-based,Variable,Based on Nord Pool prices; no guaranteed minimum,Energy Authority (www.energiavirasto.fi)
+France,6.0 - 10.0,8,Feed-in Tariff,20 years,Higher rates for small installations (<3kW); quarterly adjustment,CRE (www.cre.fr); EDF OA (www.edf-oa.fr)
+Germany,6.3 - 8.2,"7,25",Feed-in Tariff,20 years,Quarterly degression; size-dependent rates,Bundesnetzagentur (www.bundesnetzagentur.de)
+Greece,7.5 - 8.5,8,Net Metering + FiT,20 years,Special provisions for islands,DEDDIE (www.deddie.gr); RAE (www.rae.gr)
+Hungary,5.8 - 7.3,"6,55",Feed-in Tariff,15 years,Transition to METER premium system,MEKH (www.mekh.hu)
+Ireland,13.5 - 17.0,"15,25",Clean Export Guarantee,15 years,Variable rates by supplier; new scheme as of 2023,CRU (www.cru.ie)
+Italy,8.0 - 11.0,"9,5","""Scambio sul Posto""",Annual,~70-80% of retail price; regional variations,GSE (www.gse.it)
+Latvia,4.3 - 5.8,"5,05",Net Metering,Annual,Limited to annual consumption volume,PUC (www.sprk.gov.lv)
+Lithuania,5.0 - 6.2,"5,6",Fixed Tariff,12 years,Quarterly auctions determine rates,VERT (www.vert.lt)
+Luxembourg,15.0 - 25.0,20,Feed-in Tariff,15 years,Among highest in Europe; size-dependent,ILR (www.ilr.lu)
+Malta,10.5 - 16.5,"13,5",Feed-in Tariff,20 years,Higher rates for systems <40kWp,REWS (www.rews.org.mt)
+Netherlands,9.0 - 11.0,10,Net Metering (phasing out),Annual,Transitioning to 73% by 2025; eventual market rate,ACM (www.acm.nl)
+Poland,6.5 - 7.9,"7,2",FiT/FiP Auction System,15 years,Average price from auction mechanisms,URE (www.ure.gov.pl)
+Portugal,4.0 - 5.5,"4,75",Market-based,15 years,MIBEL reference; community schemes available,DGEG (www.dgeg.gov.pt); ERSE (www.erse.pt)
+Romania,3.5 - 5.2,"4,5",Green Certificate + Market,Varies,Transitioning from certificates to market pricing,ANRE (www.anre.ro)
+Slovakia,4.9 - 8.4,"6,65",Feed-in Tariff,15 years,System size dependent; <10kW favorable,URSO (www.urso.gov.sk)
+Slovenia,6.1 - 9.3,"7,7",Feed-in Tariff,15 years,Size and technology dependent,Borzen (www.borzen.si); AGEN (www.agen-rs.si)
+Spain,5.0 - 7.0,6,Dynamic Market Price,Annual,Recent regulatory improvements; no minimum guaranteed,CNMC (www.cnmc.es); REE (www.ree.es)
+Sweden,3.0 - 6.0,"4,5",Market-based,Variable,Tax reduction of 60 re/kWh provides additional benefit,Energimyndigheten (www.energimyndigheten.se)
+United Kingdom,1.5 - 5.5 (pence),"4,5",Smart Export Guarantee,Annual,Supplier-dependent; competitive market,Ofgem (www.ofgem.gov.uk)
+Switzerland,8.0 - 10.0,9,Feed-in Remuneration,15 years,Limited availability; waiting list exists,Pronovo (www.pronovo.ch)
+Norway,3.0 - 4.5,"3,75",Market-based,Annual,Nord Pool reference; plus grid benefit compensation,NVE (www.nve.no)
+Iceland,4.0 - 5.0,"4,5",Feed-in Agreement,3-5 years,Limited program; geothermal dominance,Orkustofnun (www.os.is)
+Selling Prices for Excess Electricity to the Grid Across Europe (Individual Producers),,,,,,
+Key Information Sources for Updates:,,,,,,
+European Commission - Renewable Energy Progress Reports: https://energy.ec.europa.eu/topics/renewable-energy/renewable-energy-directive-targets-and-rules/renewable-energy-progress-reports_en,,,,,,
+Council of European Energy Regulators (CEER): https://www.ceer.eu/documents/104400/-/-/2f59234d-b1e6-4515-908d-dfc84b16c0c4,,,,,,
+EurObserv'ER - Photovoltaic Barometer: https://www.eurobserv-er.org/category/photovoltaic-barometer/,,,,,,
+SolarPower Europe - EU Market Outlook: https://www.solarpowereurope.org/insights/market-outlooks,,,,,,
+National Regulatory Authorities - Referenced in the country-specific source column,,,,,,
+Notes:,,,,,,
+Rates are approximate ranges for residential/small commercial systems (typically <20kW) as of early 2025,,,,,,
+Market-based mechanisms have significant fluctuation based on wholesale electricity prices,,,,,,
+Many countries are transitioning from fixed tariffs to market-based mechanisms,,,,,,
+Self-consumption is increasingly financially advantageous compared to grid export,,,,,,
+Regulatory frameworks change frequently - always verify current rates with national authorities,,,,,,
